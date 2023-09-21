@@ -1,0 +1,7 @@
+
+Name of Quantlet: FRM_RO
+Published in: 'hu.berlin/FRM; firamis.de/frm'
+Description: 'Use FRM in Romania'
+Keywords: 'returns, linear, quantile, LASSO, L1-norm penalty,Romania, Financial Risk Meter'
+Author: 'Daniel Traian Pele' 
+Submitted:  '28.12.2022'
