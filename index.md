@@ -1,4 +1,5 @@
 # FRM@RO
+![Logo IDA_Schrift_RZ](https://github.com/danpele/frm_ro/assets/26813254/557fa483-4fe1-48e4-91b1-509c9913b335)
 
 This is the repository for the paper FINANCIAL RISK METER FOR THE ROMANIAN STOCK MARKET, authors Daniel Traian Pele, Alexandra Ioana Conda, Raul Cristian Bag, Miruna Mazurencu-Marinescu-Pele, Vasile Alecsandru Strat.
 The paper can be viewed [here](https://ipe.ro/rjef/rjef1_2023/rjef1_2023p5-24.pdf).
