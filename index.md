@@ -19,16 +19,18 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Current risk level for the Romanian Stock Market
 
-3 April 2023 - Elevated risk of a crisis in the financial market.	The incidence of a crisis is somewhat higher than usual.
+31 Dec 2023 - Low risk of a crisis in the financial market.	The incidence of a crisis is less likely than usual.
+
 <br/>
 
-![image](https://user-images.githubusercontent.com/26813254/229716100-dcedf69f-4e40-420a-9437-b396f8ef0053.png)
+![image](https://github.com/danpele/frm_ro/assets/26813254/fd37e732-14e6-4859-8f19-fc43bcc5da16)
+
 
 ## Network dynamics
 
-3 January 2022 - 3 April 2023
+3 January 2022 - 31 December 2023
 <br/>
-![network](/frm_ro/docs/Network_20220103_20230403_RO.gif)
+![network](/frm_ro/docs/Network_20220103_20231229_RO.gif)
 
 ## Download historical data
 
@@ -42,7 +44,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Resources
 
-More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team from Humboldt-Universität zu Berlin can be found [here](http://frm.wiwi.hu-berlin.de/).
+More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team from Humboldt-Universität zu Berlin can be found [here](www.theida.net).
 
 ## Contact
 danpele@ase.ro
