@@ -43,7 +43,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 
 ## Resources
 
-More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team can be found [here] (https://www.theida.net/).
+More details about the FRM framework, developed by Professor Wolfgang Karl Härdle and his team can be found [here](https://www.theida.net/)
 
 ## Contact
 danpele@ase.ro
