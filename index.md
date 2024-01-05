@@ -20,9 +20,7 @@ Detailed chart can be visualized [here](https://danpele.github.io/frm_ro/docs/FR
 ## Current risk level for the Romanian Stock Market
 
 31 Dec 2023 - Low risk of a crisis in the financial market.	The incidence of a crisis is less likely than usual.
-
 <br/>
-
 ![image](https://github.com/danpele/frm_ro/assets/26813254/fd37e732-14e6-4859-8f19-fc43bcc5da16)
 
 
